@@ -1,0 +1,24 @@
+{
+  "name": "express_server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/areshovsepyan/express_server.git"
+  },
+  "author": "Ares Hovsepyan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/areshovsepyan/express_server/issues"
+  },
+  "homepage": "https://github.com/areshovsepyan/express_server#readme",
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-graphql": "^0.12.0",
+    "graphql": "^16.3.0"
+  }
+}
